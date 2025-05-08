@@ -1,0 +1,41 @@
+body{
+    background-color: #231942;
+}
+
+h1{
+    font-family: helvetica ;
+    color: white;
+}
+
+.titulo{
+    background-color: blue;
+    position: relative;
+
+}
+
+.foto{
+    background-color: yellow;
+    position: relative;
+    top: 0px;
+    left: 800px;
+}
+.subtitulos{
+    color: black;
+}
+
+h2{
+    color: white;
+}
+.info{
+    background-color: #feeafa;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.contenedor{
+    height: 1024px;
+    width: 80%;
+    margin: 0 auto;
+}
